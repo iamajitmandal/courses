@@ -22,7 +22,10 @@
                                             v21         v22         v23
 
         5           6           7           8           9           10          11
-        NC
+        NC          v24         v25         v26         v27
+
+        12          13          14
+        v28         v29         v30
 
         NR -> No Recording
         NC -> No Class
@@ -54,9 +57,17 @@
          june 2026/06/29     v19    - Learned filter(), reduce(), list comprehension, dict comprehension(), lambda()
          june 2026/06/30     v20    - Learned Iterator & Generators
 
-         july 2026/07/01     v21    - Learned File Handling
+         july 2026/07/01     v21    - Learned File Handling (notebook also shared by sir)
          july 2026/07/02     v22    - Learned binary files, pickle, os module
          july 2026/07/03     v23    - Learned CSV files, JSON, Parsing JSON Strings
+         july 2026/07/06     v24    - Learned Errors & Exception Handling (errors & exception.ipynb)
+
+         july 2026/07/07     v25    - Learned
+         july 2026/07/08     v26    - Learned Numpy Remaining + Matplotlib (notebook also shared by sir)
+         july 2026/07/09     v27    - Learned Pandas
+         july 2026/07/12     v28    - Learned remaining pandas (data manipulation), joins, concatenation
+         july 2026/07/13     v29    - Learned EDA Project
+         july 2026/07/14     v40    - Learned EDA Project (Completed EDA Project)
 
 
         ************** End of Python Class **************
