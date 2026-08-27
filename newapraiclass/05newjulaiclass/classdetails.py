@@ -62,6 +62,7 @@
          aug 2026/08/24     v28    -       Learned
 
          aug 2026/08/26     v29   -        Learned Perceptron & NN
+         aug 2026/08/27     v30   -        Learned
 
         ************** End of Python Class **************
 """
