@@ -1,0 +1,37 @@
+<!-- Code to learn about JS Debugger -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <P>Hello</P>
+
+    <script>
+        debugger;
+        function outer(){
+            debugger;
+            function inner(){
+                debugger;
+                return 1000
+            }
+            debugger;
+            return inner()
+        }
+        debugger;
+        outer()
+
+        let a = 20
+        function increment(){
+            debugger;
+            a = a + 1
+            return a
+        }
+        increment()
+    </script>
+    
+</body>
+</html>

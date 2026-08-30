@@ -1,0 +1,10 @@
+/*
+    Loading only limited data from JSONplaceholder API
+
+    Adding Load More Function to load more data from the API
+
+    Starting to learn about Props
+
+
+
+ */

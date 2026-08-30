@@ -1,0 +1,3 @@
+/*
+    Modification in React Slick Slider for Trending   
+ */
