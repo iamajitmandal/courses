@@ -64,6 +64,8 @@
         /welcome is url
         
         app.get('/url', (request, response) )   -> request and response are parameters
+
+        go to your browser and see the response in the url: localhost:8000/welcome
     
     8. If you make some changes in the index.js then it it won't be loaded in the browser for that you have to start
         server again, to solve this problem install nodemon

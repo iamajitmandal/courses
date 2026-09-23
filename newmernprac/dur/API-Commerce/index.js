@@ -9,9 +9,9 @@ const categoryRoute = require('./routes/categoryRoute');
 const app = express();
 
 // below code is for learning purpose at the beginning
-// app.get('/welcome', (req, res) => {
-//     res.send('Welcome to Express JS to learn RESTAPI');    
-// })
+app.get('/welcome', (req, res) => {
+    res.send('Welcome to Express JS to learn RESTAPI here');    
+})
 
 // middleware
 app.use(bodyParser.json())

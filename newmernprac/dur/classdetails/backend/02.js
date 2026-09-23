@@ -3,34 +3,46 @@
     *** #v2 (Codes in API-Commerce) ***
     *** Learning to create MongoDB Atlas and ***
 
-    Create mongodb account and create cluster
-    Close the pop up box
-    Go to Network Access under security on the left side
-    Then click on Add IP Address
-    Click on Allow Access From Everywhere
-    Click on confirm
-    Cluster must be pending or active (Refresh the page if necessary)
-    Now,
-    Go to database access
-    Add New Database User
-        Remember Username(ajit) and Password(ajit12345)
-    Click on Add User
-    
-    Now go to the clusters, browse collections and click on Create Database or Add My Own Data
-    Insert the following fields:
-        Database Name: ecommerce-database
-        Collection Name: ecommerce-database
+    If you are on the mongodb for the first time:
 
-    Go to Clusters and Click on Connect
-    Then go to Connect to your application
-    Now Copy the connection code from there
+        Create mongodb account and create cluster
+        Close the pop up box
+        Go to Network Access under security on the left side
+        Then click on Add IP Address
+        Click on Allow Access From Everywhere
+        Click on confirm
+        Cluster must be pending or active (Refresh the page if necessary)
+        Now,
+        Go to database access
+        Add New Database User
+            Remember Username(ajit) and Password(ajit12345)
+        Click on Add User
+        
+        Now go to the clusters, browse collections and click on Create Database or Add My Own Data
+        Insert the following fields:
+            Database Name: ecommerce-database
+            Collection Name: ecommerce-database
 
-    mongodb+srv://ajit:<db_password>@cluster0.oxfvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+        Go to Clusters and Click on Connect
+        Then go to Connect to your application
+        Now Copy the connection code from there
 
-    Go to the environment variables and set database connections there...
-    Replace <db_password> with the password for the ajit database user.
+        mongodb+srv://ajit:<db_password>@cluster0.oxfvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
-     DATABASE = mongodb+srv://ajit:ajit12345@cluster0.oxfvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+        Go to the environment variables (.env file in the src folder) and set database connections there...
+        Replace <db_password> with the password for the ajit database user.
+
+        DATABASE = mongodb+srv://ajit:ajit12345@cluster0.oxfvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+    If you already have MONGO DB,
+        go to clusters
+        create New Database
+
+        Now, again click on databases (or clusters) and click on connect
+        choose the connect method and copy the connect code from there and paste it into .env
+
+        DATABASE = mongodb+srv://ajit:ajit12345@cluster0.oxfvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
 
     Now go the main project folder and create new folder named "database"
     and inside that make connection.js file
