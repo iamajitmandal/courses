@@ -1,5 +1,5 @@
 # 30th August 2026
-# Learned
+# Learned Activation Function & Its types
 
 # Linearly Separable & Non-Linearly Separable
 

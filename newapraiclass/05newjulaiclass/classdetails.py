@@ -25,8 +25,16 @@
         23          24          25          26          27          28          29
         NC          v28         NC          v29         v30
 
-        30
-        v31
+        30          31
+        v31         v32
+
+                                        August 2026
+
+                                1           2           3           4           5
+                                v33         v34         v35
+
+        6           7           8           9           10
+        v36
 
 
 
@@ -66,6 +74,22 @@
 
          aug 2026/08/26     v29   -        Learned Perceptron & NN
          aug 2026/08/27     v30   -        Learned PCA & PCA Implementation & 't-SNE'
+         aug 2026/08/30     v31   -        Learned Activation Function & Its types
+         aug 2026/08/31     v32   -        Learned properties of Activation Function, Weights Initialization in NN &
+                                                   Little PyTorch Implementation
+        sep 2026/09/01      v33   -         Learned Batch Gradient Descent, Stochastic & Mini-Batch Gradient Descent & Optimizers
+        sep 2026/09/02      v34   -         Learned Optimization Algorithm: AdaGrad, RMSProp, Adam And
+                                                    Normalization & Batch Normalization
+        sep 2026/09/03      v35   -         Learned Gradient Clipping, Batch Normalization in depth, Exponentially Weighted Averages, Dropout, Early Stopping & Regularization
+
+        sep 2026/09/06      v36   -         Learned ANN implementation (Try to understand each concept) - ANN_PyTorch_Classroom_Demo.ipynb
+
+        sep 2026/09/10      v40   -         Learned
+
+
+
+
+
 
         ************** End of Python Class **************
 """

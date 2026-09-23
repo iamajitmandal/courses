@@ -79,7 +79,8 @@
         RNNs and LSTMs for sequence modeling
         Sentiment analysis and Named Entity Recognition (NER)
         Simple chatbot and text classification project
-        Lesson 4: Generative AI & Large Language Models (LLMs)
+
+    Lesson 4: Generative AI & Large Language Models (LLMs)
 
     4.1 LLM Foundations
 
