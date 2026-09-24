@@ -90,6 +90,27 @@
 
 
 
+        https://developers.google.com/machine-learning/crash-course/linear-regression
+
+        https://youtu.be/86mwuIJmfMs watch this video for gradient descent
+        Decision tree project-Try Using a validation set to choose the best ccp_alpha than using the test set.
+
+        https://youtu.be/q-7xEQP9GX0 K Means
+
+        https://youtu.be/VmyRHY3fTjE
+        https://youtu.be/M6499mHwTfk
+        birch algorithm video algorithm
+
+        https://youtu.be/hT3W4pe5Lgw
+
+        https://youtu.be/glg20kWC668 (Word embeddings)
+        https://youtu.be/1jovGlGthtw (word2vec)
+        https://youtu.be/hIDe0F4TTgI         (GloVe Embeddings)
+
+
+
+
+
 
         ************** End of Python Class **************
 """
