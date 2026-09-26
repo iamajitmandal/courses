@@ -37,7 +37,6 @@
         v36
 
 
-
         NR -> No Recording
         NC -> No Class
 
@@ -46,8 +45,10 @@
          july 2026/07/16     v01    -       Learned Introduction of AI & ML (From pdf)
          july 2026/07/17     v02    -       Learned Linear Regression from Google Developers Website
          july 2026/07/19     v03    -       Learned Linear Regression from Google Developers Website ( Continue )
-         july 2026/07/20     v04    -       Learned to make a simple Linear Regression Model -> Salary Prediction
+                                            & Learned Loss in Linear Regression Model & R-squared, Adjusted R-squared scores
+         july 2026/07/20     v04    -       Learned to make a simple Linear Regression Model -> Salary Prediction (v04.ipynb)
          july 2026/07/21     v05    -       Learned to make a simple Linear Regression Model -> Salary Prediction Continue
+
          july 2026/07/22     v06    -       Learned Polynomial Linear Regression
          july 2026/07/23     v07    -       Learned Gradient Descent [theory - https://youtu.be/86mwuIJmfMs]
          july 2026/07/24     v08    -       Learned Gradient Descent For Linear Regression (theory - notebook shared by sir)
