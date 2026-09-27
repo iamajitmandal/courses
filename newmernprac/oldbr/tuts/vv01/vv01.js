@@ -1,6 +1,18 @@
-//
+// 17th Dec, 2023
+// Learned React Pre-requisites & Basic react project setup
+
+// Basics before starting React:
+// html basics
+// css basics
+// const let var
+// array
+// object
+// function 
+        // (hof ==> map, filter, reduce, forEach)
+        // 
 
 // Learning React
+// Install Node (Because React needs Node)
 
 // React Intro: lib or framework
 // library made by facebook
@@ -19,7 +31,6 @@
 
 
 // MERN 
-
 // Tomorrows Task Todo:
 // 1. create react project : REACTFIRSTDAY
 

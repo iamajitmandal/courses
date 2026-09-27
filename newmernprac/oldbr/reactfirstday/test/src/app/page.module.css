@@ -1,4 +1,23 @@
-.page {
+/* specific css for the page.js */
+.btn{
+  background-color: aquamarine;
+  padding: 10px 30px;
+}
+
+.card{
+  background-color: blueviolet;
+  margin: 20px;
+  padding: 40px;
+}
+
+.productImage{
+  height: 300px;
+  width: 300px;
+}
+
+/* 
+/* older codes for page.js are commented to learn new concpets of new added code */
+/* .page {
   --background: #fafafa;
   --foreground: #fff;
 
@@ -7,7 +26,7 @@
 
   --button-primary-hover: #383838;
   --button-secondary-hover: #f2f2f2;
-  --button-secondary-border: #ebebeb;
+  --button-secondary-border: #270101;
 
   display: flex;
   flex: 1;
@@ -95,7 +114,7 @@ a.secondary {
 }
 
 /* Enable hover only on non-touch devices */
-@media (hover: hover) and (pointer: fine) {
+/* @media (hover: hover) and (pointer: fine) {
   a.primary:hover {
     background: var(--button-primary-hover);
     border-color: transparent;
@@ -147,4 +166,4 @@ a.secondary {
   background: color-mix(in srgb, currentColor 8%, transparent);
   padding: 0.1em 0.4em;
   border-radius: 6px;
-}
+} */ 
